@@ -1,0 +1,26 @@
+{
+  "name": "electron_test",
+  "version": "1.0.0",
+  "description": "electron test",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EJShim/electron_test.git"
+  },
+  "keywords": [
+    "just",
+    "test"
+  ],
+  "author": "EJ Shim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EJShim/electron_test/issues"
+  },
+  "homepage": "https://github.com/EJShim/electron_test#readme",
+  "devDependencies": {
+    "electron": "^2.0.9"
+  }
+}
